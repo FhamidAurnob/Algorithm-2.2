@@ -1,0 +1,1 @@
+Given a graph, determine whether it is possible or not to make a second best mst. If yes, determine its length.

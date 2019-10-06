@@ -1,0 +1,2 @@
+1. TSP with Max Cost
+2. TSP with each node at least once
